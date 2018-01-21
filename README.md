@@ -1,0 +1,2 @@
+# LEG-Stock
+Stock Sistem
